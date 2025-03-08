@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\bin\Debug\net8.0\abstraction-odev-2-alperen.exe
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\bin\Debug\net8.0\abstraction-odev-2-alperen.deps.json
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\bin\Debug\net8.0\abstraction-odev-2-alperen.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\bin\Debug\net8.0\abstraction-odev-2-alperen.dll
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\bin\Debug\net8.0\abstraction-odev-2-alperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\obj\Debug\net8.0\abstraction-odev-2-alperen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\obj\Debug\net8.0\abstraction-odev-2-alperen.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\obj\Debug\net8.0\abstraction-odev-2-alperen.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\obj\Debug\net8.0\abstraction-odev-2-alperen.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\obj\Debug\net8.0\abstraction-odev-2-alperen.dll
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\obj\Debug\net8.0\refint\abstraction-odev-2-alperen.dll
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\obj\Debug\net8.0\abstraction-odev-2-alperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\obj\Debug\net8.0\abstraction-odev-2-alperen.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odev-2-alperen\abstraction-odev-2-alperen\obj\Debug\net8.0\ref\abstraction-odev-2-alperen.dll
