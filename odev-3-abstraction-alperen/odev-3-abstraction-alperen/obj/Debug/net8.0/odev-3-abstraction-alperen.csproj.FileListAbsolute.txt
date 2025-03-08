@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\bin\Debug\net8.0\odev-3-abstraction-alperen.exe
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\bin\Debug\net8.0\odev-3-abstraction-alperen.deps.json
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\bin\Debug\net8.0\odev-3-abstraction-alperen.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\bin\Debug\net8.0\odev-3-abstraction-alperen.dll
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\bin\Debug\net8.0\odev-3-abstraction-alperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\obj\Debug\net8.0\odev-3-abstraction-alperen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\obj\Debug\net8.0\odev-3-abstraction-alperen.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\obj\Debug\net8.0\odev-3-abstraction-alperen.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\obj\Debug\net8.0\odev-3-abstraction-alperen.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\obj\Debug\net8.0\odev-3-abstraction-alperen.dll
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\obj\Debug\net8.0\refint\odev-3-abstraction-alperen.dll
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\obj\Debug\net8.0\odev-3-abstraction-alperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\obj\Debug\net8.0\odev-3-abstraction-alperen.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\odev-3-abstraction-alperen\odev-3-abstraction-alperen\obj\Debug\net8.0\ref\odev-3-abstraction-alperen.dll
