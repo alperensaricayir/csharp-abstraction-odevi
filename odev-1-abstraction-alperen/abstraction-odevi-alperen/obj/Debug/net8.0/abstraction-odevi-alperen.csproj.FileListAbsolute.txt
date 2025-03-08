@@ -1,0 +1,14 @@
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\obj\Debug\net8.0\abstraction-odevi-alperen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\obj\Debug\net8.0\abstraction-odevi-alperen.AssemblyInfoInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\obj\Debug\net8.0\abstraction-odevi-alperen.AssemblyInfo.cs
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\obj\Debug\net8.0\abstraction-odevi-alperen.csproj.CoreCompileInputs.cache
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\bin\Debug\net8.0\abstraction-odevi-alperen.exe
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\bin\Debug\net8.0\abstraction-odevi-alperen.deps.json
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\bin\Debug\net8.0\abstraction-odevi-alperen.runtimeconfig.json
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\bin\Debug\net8.0\abstraction-odevi-alperen.dll
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\bin\Debug\net8.0\abstraction-odevi-alperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\obj\Debug\net8.0\abstraction-odevi-alperen.dll
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\obj\Debug\net8.0\refint\abstraction-odevi-alperen.dll
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\obj\Debug\net8.0\abstraction-odevi-alperen.pdb
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\obj\Debug\net8.0\abstraction-odevi-alperen.genruntimeconfig.cache
+C:\Users\memos\OneDrive\Masaüstü\abstraction-odevi-alperen\abstraction-odevi-alperen\obj\Debug\net8.0\ref\abstraction-odevi-alperen.dll

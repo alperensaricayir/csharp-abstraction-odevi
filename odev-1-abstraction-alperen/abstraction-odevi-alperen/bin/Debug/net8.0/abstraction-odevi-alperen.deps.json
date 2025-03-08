@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "abstraction-odevi-alperen/1.0.0": {
+        "runtime": {
+          "abstraction-odevi-alperen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abstraction-odevi-alperen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
